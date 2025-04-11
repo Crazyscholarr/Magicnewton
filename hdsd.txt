@@ -1,0 +1,4 @@
+Cách lấy cookie thủ công:
+Bước 1: Mở trình duyệt (Chrome/Firefox), đăng nhập vào magicnewton.com qua Gmail hoặc ví EVM.
+Bước 2: Nhấn F12 (DevTools) > Application > Cookies > Tìm __Secure-next-auth.session-token.
+Bước 3: Copy giá trị của cookie (cột "Value") và dán vào data.txt, mỗi dòng một cookie cho từng tài khoản.
