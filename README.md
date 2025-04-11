@@ -69,6 +69,6 @@ Proxies: If the number of proxies is less than the number of accounts, remaining
 Expired Cookies: If a cookie is invalid, the bot will log an error and skip that account.
 Cooldown Time: The bot calculates cooldown based on the website's countdown timer.
 Debugging: Check logs to troubleshoot issues (e.g., cookie, proxy, or connection problems).
-Contact
+## Contact
 Telegram:[@Crzscholar](https://t.me/Crzscholar)
 Support: [@Crzscholar](https://t.me/Crzscholar)# Magicnewton
