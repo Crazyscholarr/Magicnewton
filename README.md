@@ -71,4 +71,10 @@ Cooldown Time: The bot calculates cooldown based on the website's countdown time
 Debugging: Check logs to troubleshoot issues (e.g., cookie, proxy, or connection problems).
 ## Contact
 Telegram:[@Crzscholar](https://t.me/Crzscholar)
-Support: [@Crzscholar](https://t.me/Crzscholar)# Magicnewton
+Support: [@Crzscholar](https://t.me/dg_pub)# DGPub Retroactive - Kênh tin tức và săn kèo Retroactive chất lượng cao 
+
+Channel Vietnam: https://t.me/dgpubretro
+
+Channel Global: https://t.me/dg_pub
+
+DGPub Social Media: linktr.ee/dgpub
